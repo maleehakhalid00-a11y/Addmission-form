@@ -23,7 +23,7 @@ return(
         <h2>COLLEGE ADMISSIONS FORM</h2>
         <p>Enter your admission information below</p>
 
-        {/* Name */}
+        
         <div className="row">
           <label className="label">Name</label>
           <div className="flex-row">
@@ -33,7 +33,7 @@ return(
           </div>
         </div>
 
-        {/* Birth Date */}
+      
         <div className="row">
           <label className="label">Birth Date</label>
           <div className="flex-row">
