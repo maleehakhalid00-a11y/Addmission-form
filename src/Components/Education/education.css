@@ -1,0 +1,105 @@
+
+
+
+.edu-wrap {
+  background-color: #fff;
+  padding: 32px 40px;
+  border-radius: 8px;
+  width: 680px;
+  box-sizing: border-box;
+  color: #222;
+}
+
+.edu-title {
+  margin-bottom: 24px;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.edu-form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.edu-row {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.graduation-label {
+  min-width: 130px;
+}
+
+.edu-label {
+  flex: 1 1 200px;
+  font-weight: 500;
+  font-size: 14px;
+  color: #333;
+}
+
+.edu-small-label {
+  font-size: 12px;
+  color: #888;
+  margin-top: 6px;
+  margin-left: 4px;
+}
+
+.edu-input{
+    padding: 5px;
+  height: 30px;
+}
+.edu-select {
+
+
+  font-size: 14px;
+  border: 1px solid #c0c3cc;
+  border-radius: 6px;
+  box-sizing: border-box;
+  color: #444;
+  width: 100%;
+  height: 40px;
+}
+
+.edu-input[type="date"] {
+  padding-right: 30px;
+}
+
+.edu-select {
+  cursor: pointer;
+}
+
+.edu-column {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.edu-btns {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.edu-back-btn,
+.edu-next-btn {
+  padding: 12px 30px;
+  border-radius: 8px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 14px;
+  user-select: none;
+}
+
+.edu-back-btn {
+  background-color: #e1e3eb;
+  color: #333;
+}
+
+.edu-next-btn {
+  background-color: #2f6aff;
+  color: #fff;
+}

@@ -1,0 +1,41 @@
+.fee-box{
+    background-color: white;
+    height: 250px;
+    width: 600px;
+  padding: 15px;
+}
+.check-flex{
+    display: flex;
+    justify-content: space-around;
+}
+.fee-back-btn{
+     padding: 12px 30px;
+  border-radius: 8px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 14px;
+  user-select: none;
+
+}
+.fee-submit-btn{
+     padding: 12px 30px;
+  border-radius: 8px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 14px;
+  user-select: none;
+  background-color: #18bd5b;
+    color: white;
+    
+}
+
+.fee-back-btn button{
+    background-color: #E5E7F2;
+}
+
+.dis{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,34 @@
+.boddy{
+    background-color: white;
+height: 100vh;
+width: 100%;
+
+
+ justify-items: center;
+}
+body{
+    margin: 0;
+}
+.thank-clmn{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+
+
+}
+.thank-clmn img{
+    height: 155px;
+    width: 158px;
+}
+.thank-clmn h1{
+    font-size: 50px;
+}
+.hht{
+    height: 60px;
+}
+.lineht{
+    line-height: 20px;
+}
